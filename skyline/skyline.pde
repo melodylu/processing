@@ -1,5 +1,8 @@
+// This was the first thing I wrote in processing...and it is a tangled mess 
+// of variables I lost track of. To be refactored!
 
-int blocksBuilt = 0; //why the fuck are you the only variable that fuctions can see?
+
+int blocksBuilt = 0; //only variable that everyone can see?
 float cityGround = 0;
 int moonX = 0;
 int moonY = 0;
